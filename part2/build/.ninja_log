@@ -1,0 +1,7 @@
+# ninja log v5
+661	2157	6616752497295932	part2gui.exe	dd5d9defb2a9a288
+1	661	6616752487062746	CMakeFiles/part2gui.dir/main.cpp.obj	c9a446624e4310b0
+1	76	0	clean	e8e407a994324ac6
+2	1471	6616811592307876	CMakeFiles/part2gui.dir/main.cpp.obj	c9a446624e4310b0
+4	1504	6616812849556100	CMakeFiles/part2gui.dir/main.cpp.obj	c9a446624e4310b0
+4	1355	6616813866327573	CMakeFiles/part2gui.dir/main.cpp.obj	c9a446624e4310b0

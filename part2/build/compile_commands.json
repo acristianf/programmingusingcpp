@@ -1,0 +1,7 @@
+[
+{
+  "directory": "D:/00a_C++/00c++books/programming using c++/part2/build",
+  "command": "C:\\PROGRA~1\\LLVM\\bin\\CLANG_~1.EXE -isystem D:/vcpkg/installed/x64-windows/include -g -Xclang -gcodeview -O0 -D_DEBUG -D_DLL -D_MT -Xclang --dependent-lib=msvcrtd -o CMakeFiles\\part2gui.dir\\main.cpp.obj -c \"D:\\00a_C++\\00c++books\\programming using c++\\part2\\main.cpp\"",
+  "file": "D:\\00a_C++\\00c++books\\programming using c++\\part2\\main.cpp"
+}
+]
