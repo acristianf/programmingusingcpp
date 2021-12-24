@@ -1,5 +1,0 @@
-D:/00a_C++/00c++books/programming using c++/part2/build/CMakeFiles/part2gui.dir
-D:/00a_C++/00c++books/programming using c++/part2/build/CMakeFiles/package.dir
-D:/00a_C++/00c++books/programming using c++/part2/build/CMakeFiles/package_source.dir
-D:/00a_C++/00c++books/programming using c++/part2/build/CMakeFiles/edit_cache.dir
-D:/00a_C++/00c++books/programming using c++/part2/build/CMakeFiles/rebuild_cache.dir
