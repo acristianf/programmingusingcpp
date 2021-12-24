@@ -37,3 +37,9 @@
 
 # files
 *.pdf
+
+# cmake
+build
+.cache
+completed
+
